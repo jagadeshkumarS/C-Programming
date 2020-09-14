@@ -1,0 +1,14 @@
+//Procedure
+
+1. Get and Extract the Menu from HTML of that perticular topic on website page using Inspect Tool.
+2. Get the links of various page of that Topic from that menu HTML file After that change those "href" to local path.
+3. Download all those pages using python code.
+4. Remove unwanted datas from those files like Ads, Comments.
+5. Download Images are used in those pages if needed.
+6. Change the "href" locations and img locations to current local path.
+7. Group them in perticular Folder.
+8. Execute the menu file using Browser.
+
+//Getting the ubuntu Files
+
+C:\Users\JK\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs
